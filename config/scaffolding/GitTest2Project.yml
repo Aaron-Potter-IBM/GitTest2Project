@@ -1,0 +1,9 @@
+version: "1.0"
+info:
+  model: int-scaffold
+packages:
+- name: GitTest2Project
+  gitServerName: AaronGit
+  gitUrl: https://github.com/Aaron-Potter-IBM
+  gitUsername: Aaron-Potter-IBM
+  gitBranch: main
